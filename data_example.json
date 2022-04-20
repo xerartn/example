@@ -1,0 +1,1949 @@
+[
+{
+    "id": "68bfda0e-5fe3-4c75-bcf2-78522122c1b7",
+    "index": 76,
+    "period": 1,
+    "timestamp": "00:01:27.260",
+    "minute": 1,
+    "second": 27,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 4,
+    "possession_team":
+    {
+        "id": 781,
+        "name": "Brazil"
+    },
+    "play_pattern":
+    {
+        "id": 7,
+        "name": "From Goal Kick"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [79, 28],
+    "related_events": ["3c6aac46-d4b6-4988-affb-419883f39a56"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "4bd6e462-7bd2-435e-a08f-1915e7fb73a0",
+    "index": 160,
+    "period": 1,
+    "timestamp": "00:03:11.940",
+    "minute": 3,
+    "second": 11,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 8,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 8,
+        "name": "From Keeper"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [68, 31],
+    "related_events": ["b038812c-4a87-478b-9f1f-3a38a337e441"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "09352d7e-13b9-42a2-875b-adbf9ef64ffa",
+    "index": 251,
+    "period": 1,
+    "timestamp": "00:05:10.113",
+    "minute": 5,
+    "second": 10,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 12,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [81, 8],
+    "related_events": ["1437dda4-3950-40b1-b666-47bce309a5b4"]
+},
+{
+    "id": "5ec38b34-0972-4cd5-a20d-883e1a4ad669",
+    "index": 321,
+    "period": 1,
+    "timestamp": "00:07:30.633",
+    "minute": 7,
+    "second": 30,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 16,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [113, 35],
+    "related_events": ["aeefeeff-1371-418d-9043-da3ffe1ae4c8"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "22f90679-ee29-4756-82dd-eeb470658813",
+    "index": 474,
+    "period": 1,
+    "timestamp": "00:11:43.100",
+    "minute": 11,
+    "second": 43,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 21,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 4,
+        "name": "From Throw In"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [85, 17],
+    "related_events": ["75a00900-5061-41f9-93bb-0116deb136fa"]
+},
+{
+    "id": "21707144-8dfe-425c-bbea-3365fd442e4a",
+    "index": 504,
+    "period": 1,
+    "timestamp": "00:12:02.500",
+    "minute": 12,
+    "second": 2,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 21,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 4,
+        "name": "From Throw In"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [71, 28],
+    "related_events": ["d6a6b8e4-40e3-4914-9ea0-78c06437a735"]
+},
+{
+    "id": "5ded00ad-e09b-4a93-9ab3-9759312e9f7c",
+    "index": 862,
+    "period": 1,
+    "timestamp": "00:20:25.340",
+    "minute": 20,
+    "second": 25,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 42,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 4,
+        "name": "From Throw In"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [68, 7],
+    "under_pressure": true,
+    "related_events": ["2cd7d873-3ef0-4fb7-84ee-cdff1b2959c4", "d74f6650-02e1-4b08-9a30-c515dfac974c"]
+},
+{
+    "id": "e148b839-30fd-4a45-bc99-cc42f479017d",
+    "index": 949,
+    "period": 1,
+    "timestamp": "00:23:11.340",
+    "minute": 23,
+    "second": 11,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 45,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 2,
+        "name": "From Corner"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [70, 77],
+    "related_events": ["de98628f-9715-4b8b-9e78-9288411b6afe"]
+},
+{
+    "id": "7a9468b7-c0f0-4bf7-8067-48794806de10",
+    "index": 1074,
+    "period": 1,
+    "timestamp": "00:25:44.593",
+    "minute": 25,
+    "second": 44,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 50,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [101, 20],
+    "related_events": ["4e7f3295-0336-429f-bba7-b1d9f63fb454"]
+},
+{
+    "id": "35eecde9-0896-4636-9aa3-77d7956244a4",
+    "index": 1092,
+    "period": 1,
+    "timestamp": "00:26:12.113",
+    "minute": 26,
+    "second": 12,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 52,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [43, 55],
+    "under_pressure": true,
+    "related_events": ["349c72bc-5eb6-474c-944e-7c83b95263c6", "cf6ad045-e9d0-4c97-93c2-08ab53143b42"]
+},
+{
+    "id": "e4aa3951-3bb5-4a09-8cd2-38c9930181b7",
+    "index": 1211,
+    "period": 1,
+    "timestamp": "00:30:45.393",
+    "minute": 30,
+    "second": 45,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 61,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [91, 59],
+    "related_events": ["32e8f9a0-a56f-407e-8fc9-d8204ad48c88"]
+},
+{
+    "id": "608a01a7-d543-4fea-acd0-1ee7408562e4",
+    "index": 1260,
+    "period": 1,
+    "timestamp": "00:33:06.233",
+    "minute": 33,
+    "second": 6,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 63,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [100, 20],
+    "related_events": ["d13a1c8c-e18c-49e7-8797-1dea33ad3ab8"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "4a2a23cc-39f5-4edb-a31f-424fc57c2d46",
+    "index": 1282,
+    "period": 1,
+    "timestamp": "00:33:45.793",
+    "minute": 33,
+    "second": 45,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 64,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 4,
+        "name": "From Throw In"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [81, 26],
+    "under_pressure": true,
+    "related_events": ["5953a96c-9b99-4087-94b2-3748dc472cb5", "96a162ce-70fb-47f8-bd12-700cb739036f"]
+},
+{
+    "id": "e5639462-e2ec-4820-b676-fedbd744e036",
+    "index": 1335,
+    "period": 1,
+    "timestamp": "00:35:42.593",
+    "minute": 35,
+    "second": 42,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 66,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 7,
+        "name": "From Goal Kick"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [94, 57],
+    "related_events": ["8613c1a1-9348-49a2-80f4-c150f69cc9b9"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "60e6778d-0ece-4587-ae4a-9bef3567f8f7",
+    "index": 1430,
+    "period": 1,
+    "timestamp": "00:37:45.260",
+    "minute": 37,
+    "second": 45,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 71,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [95, 42],
+    "under_pressure": true,
+    "related_events": ["62c55cf2-51a1-4d21-8d3a-32ebe46e210e", "9cf51da1-71a3-4613-aa63-3f23843ac455"]
+},
+{
+    "id": "38021c4d-f56f-4bef-8cf9-07982c2ed190",
+    "index": 1496,
+    "period": 1,
+    "timestamp": "00:38:39.113",
+    "minute": 38,
+    "second": 39,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 71,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [69, 41],
+    "related_events": ["5e5f5569-de02-4228-920c-b2faaa2048f8"]
+},
+{
+    "id": "79e66aa8-5c43-4e16-aa56-655c90bab911",
+    "index": 1503,
+    "period": 1,
+    "timestamp": "00:38:46.833",
+    "minute": 38,
+    "second": 46,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 71,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [91, 45],
+    "under_pressure": true,
+    "related_events": ["2c9d593d-b87b-4554-8627-ccaf0d3bda6e", "5fcabd65-d84b-4a29-a5cd-c3adeba94117"]
+},
+{
+    "id": "9555a81b-443b-46df-84f4-12271946f2d2",
+    "index": 1546,
+    "period": 1,
+    "timestamp": "00:39:25.540",
+    "minute": 39,
+    "second": 25,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 71,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [69, 14],
+    "related_events": ["55e620d3-5706-448c-95e9-f3de3fb64e2c"]
+},
+{
+    "id": "d8692027-5f44-4c4b-a62a-be292facaec5",
+    "index": 1562,
+    "period": 1,
+    "timestamp": "00:39:34.593",
+    "minute": 39,
+    "second": 34,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 71,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [81, 22],
+    "under_pressure": true,
+    "related_events": ["2e3a24ca-3fda-4b46-bd54-22665c656786", "73147af4-22be-4afe-a800-25782ed57635"]
+},
+{
+    "id": "1f17c10a-0792-4217-8796-77902bcd3988",
+    "index": 1619,
+    "period": 1,
+    "timestamp": "00:42:14.313",
+    "minute": 42,
+    "second": 14,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 76,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [27, 30],
+    "under_pressure": true,
+    "related_events": ["a292790a-0966-47c4-ab2e-a880ce7bc6fb", "d5954e31-cba2-47d2-8167-37a60d02d2c3"]
+},
+{
+    "id": "acf6fec3-55c2-43b4-9574-49d983df361b",
+    "index": 1642,
+    "period": 1,
+    "timestamp": "00:42:40.793",
+    "minute": 42,
+    "second": 40,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 77,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [18, 59],
+    "related_events": ["36c982f2-67c4-44ba-8b56-cf451d0f67ea"]
+},
+{
+    "id": "13529e78-1692-4e61-bb25-bd98734f6ada",
+    "index": 1840,
+    "period": 2,
+    "timestamp": "00:00:11.760",
+    "minute": 45,
+    "second": 11,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 84,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 9,
+        "name": "From Kick Off"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [50, 31],
+    "related_events": ["62e3939a-0ef2-48c6-adae-33405f5eccf4"]
+},
+{
+    "id": "0c08b105-fc92-4e6d-865a-25456ee249e0",
+    "index": 1928,
+    "period": 2,
+    "timestamp": "00:02:34.320",
+    "minute": 47,
+    "second": 34,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 87,
+    "possession_team":
+    {
+        "id": 781,
+        "name": "Brazil"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [34, 17],
+    "related_events": ["781f2375-835e-48e4-aa3a-91c44671997d"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "a6f29a2b-ac47-45f7-adcf-a11f3cfdf030",
+    "index": 1993,
+    "period": 2,
+    "timestamp": "00:03:31.307",
+    "minute": 48,
+    "second": 31,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 88,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 6,
+        "name": "From Counter"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [65, 39],
+    "related_events": ["cc4e373a-dfba-460c-978b-ccd0a3e8d852"]
+},
+{
+    "id": "9b3e62bf-4678-4b45-9d9d-29169ed51775",
+    "index": 2168,
+    "period": 2,
+    "timestamp": "00:07:39.747",
+    "minute": 52,
+    "second": 39,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 97,
+    "possession_team":
+    {
+        "id": 781,
+        "name": "Brazil"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [50, 26],
+    "related_events": ["26c72941-896d-497a-9239-f541827cfb56"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "adc6a100-e421-460e-9dd5-e1977d0875a0",
+    "index": 2206,
+    "period": 2,
+    "timestamp": "00:08:47.920",
+    "minute": 53,
+    "second": 47,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 98,
+    "possession_team":
+    {
+        "id": 781,
+        "name": "Brazil"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [43, 22],
+    "related_events": ["ecd325b4-3163-4a72-9247-8153de9e06aa"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "947e0f80-349e-4b13-8ece-6e0f08d2da05",
+    "index": 2236,
+    "period": 2,
+    "timestamp": "00:09:14.667",
+    "minute": 54,
+    "second": 14,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 99,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [58, 56],
+    "related_events": ["b6503669-41ab-4a58-be91-eed4122bd706"]
+},
+{
+    "id": "a393e8f9-2d83-43eb-81ee-e68332d23f21",
+    "index": 2422,
+    "period": 2,
+    "timestamp": "00:14:51.667",
+    "minute": 59,
+    "second": 51,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 110,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [68, 28],
+    "related_events": ["398be488-d93d-405e-b643-4e273d672e09"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "43afb638-bb93-49be-8f58-95fb64d49a01",
+    "index": 2440,
+    "period": 2,
+    "timestamp": "00:15:21.360",
+    "minute": 60,
+    "second": 21,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 111,
+    "possession_team":
+    {
+        "id": 781,
+        "name": "Brazil"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [60, 56],
+    "related_events": ["45c4820d-a321-4f2f-beab-4c401af7dea9"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "326a89b7-4972-4693-bcff-3b00730b00ec",
+    "index": 2493,
+    "period": 2,
+    "timestamp": "00:16:11.440",
+    "minute": 61,
+    "second": 11,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 114,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 6,
+        "name": "From Counter"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [68, 34],
+    "related_events": ["026c2cd3-2e16-44c2-bcb7-b6b12cee1bc3"]
+},
+{
+    "id": "573bfa6b-8d82-41e9-a088-43185a0f4b38",
+    "index": 2593,
+    "period": 2,
+    "timestamp": "00:18:20.707",
+    "minute": 63,
+    "second": 20,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 120,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [30, 37],
+    "related_events": ["6b78ab2f-7459-4da1-8d1f-53b9f5653f63"]
+},
+{
+    "id": "b6440489-cb52-4167-83a9-f02b1ccfc455",
+    "index": 2623,
+    "period": 2,
+    "timestamp": "00:19:22.187",
+    "minute": 64,
+    "second": 22,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 122,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 4,
+        "name": "From Throw In"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [77, 57],
+    "under_pressure": true,
+    "related_events": ["11240bb8-e392-4e60-a66d-7d24238dea34", "1a168b92-36c4-43b4-a871-05dc5139831f"]
+},
+{
+    "id": "efe50579-891d-4fd1-b49a-8ad079c84f8a",
+    "index": 2703,
+    "period": 2,
+    "timestamp": "00:21:07.880",
+    "minute": 66,
+    "second": 7,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 125,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 4,
+        "name": "From Throw In"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [62, 7],
+    "related_events": ["3cb80e0f-946d-435f-a955-8912a07efea2"]
+},
+{
+    "id": "30467075-a4e1-4f85-9166-293452f6be54",
+    "index": 2713,
+    "period": 2,
+    "timestamp": "00:21:29.680",
+    "minute": 66,
+    "second": 29,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 126,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 4,
+        "name": "From Throw In"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [71, 14],
+    "related_events": ["4dccc518-5ebc-44d7-a731-9d43d50a784f"]
+},
+{
+    "id": "fbacf76b-617c-42ca-b71e-9d0b78d5fd22",
+    "index": 2750,
+    "period": 2,
+    "timestamp": "00:23:49.826",
+    "minute": 68,
+    "second": 49,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 129,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [36, 49],
+    "related_events": ["9a11f90d-cd27-4368-b347-760e3dd4f22d"]
+},
+{
+    "id": "b75b53eb-abfb-4576-b036-fd5f1de6715c",
+    "index": 2936,
+    "period": 2,
+    "timestamp": "00:29:11.827",
+    "minute": 74,
+    "second": 11,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 148,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 7,
+        "name": "From Goal Kick"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [85, 52],
+    "related_events": ["99d5b7b4-b8da-4036-bc3f-9c53e91ced19"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "aa2c9c02-288e-432d-ac7b-8e34c56353b9",
+    "index": 3069,
+    "period": 2,
+    "timestamp": "00:33:22.920",
+    "minute": 78,
+    "second": 22,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 156,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 7,
+        "name": "From Goal Kick"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [73, 48],
+    "related_events": ["dd27db9c-ac88-40b3-9589-a6f34abf3b70"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "46cdc6d9-7ef9-4c40-accb-53784c45f214",
+    "index": 3097,
+    "period": 2,
+    "timestamp": "00:34:18.480",
+    "minute": 79,
+    "second": 18,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 158,
+    "possession_team":
+    {
+        "id": 781,
+        "name": "Brazil"
+    },
+    "play_pattern":
+    {
+        "id": 2,
+        "name": "From Corner"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [99, 21],
+    "related_events": ["ae4325f2-d65e-4448-ae28-d61591cbcc39"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "6afd90de-231c-4007-85c5-786df0cef9cc",
+    "index": 3127,
+    "period": 2,
+    "timestamp": "00:34:44.760",
+    "minute": 79,
+    "second": 44,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 159,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 1,
+        "name": "Regular Play"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 25,
+        "name": "Secondary Striker"
+    },
+    "location": [51, 28],
+    "related_events": ["02377c35-98bd-4558-b239-eea3decd2c5d"]
+},
+{
+    "id": "5af53fb9-0603-4d7b-b738-6117f537a95e",
+    "index": 3166,
+    "period": 2,
+    "timestamp": "00:37:39.147",
+    "minute": 82,
+    "second": 39,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 161,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 7,
+        "name": "From Goal Kick"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 15,
+        "name": "Left Center Midfield"
+    },
+    "location": [88, 23],
+    "related_events": ["72245f7f-bffe-4775-a7ae-6334a25cce72"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "106c2e72-bddf-4798-9ee8-1af06f3a7e72",
+    "index": 3372,
+    "period": 2,
+    "timestamp": "00:43:45.760",
+    "minute": 88,
+    "second": 45,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 171,
+    "possession_team":
+    {
+        "id": 781,
+        "name": "Brazil"
+    },
+    "play_pattern":
+    {
+        "id": 4,
+        "name": "From Throw In"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 22,
+        "name": "Right Center Forward"
+    },
+    "location": [39, 31],
+    "related_events": ["cebc6991-50ce-49aa-9ffe-33a7fe9422c4"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "0a7b1b53-c865-4c21-b055-c4bd0aaa9014",
+    "index": 3412,
+    "period": 2,
+    "timestamp": "00:44:45.040",
+    "minute": 89,
+    "second": 45,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 173,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 3,
+        "name": "From Free Kick"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 22,
+        "name": "Right Center Forward"
+    },
+    "location": [66, 57],
+    "related_events": ["50f106ce-bbee-4e31-8d5e-d850b1f31f52"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "f80eebdc-55db-4288-84b8-11b7fadf8251",
+    "index": 3567,
+    "period": 2,
+    "timestamp": "00:49:23.247",
+    "minute": 94,
+    "second": 23,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 181,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 7,
+        "name": "From Goal Kick"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 22,
+        "name": "Right Center Forward"
+    },
+    "location": [89, 77],
+    "related_events": ["05cebdd1-ee89-4f50-aa4b-3d3a37846e95"],
+    "ball_receipt":
+    {
+        "outcome":
+        {
+            "id": 9,
+            "name": "Incomplete"
+        }
+    }
+},
+{
+    "id": "55f0d4c0-bfc6-4edc-aac4-902c37c2b507",
+    "index": 3571,
+    "period": 2,
+    "timestamp": "00:49:28.266",
+    "minute": 94,
+    "second": 28,
+    "type":
+    {
+        "id": 42,
+        "name": "Ball Receipt*"
+    },
+    "possession": 181,
+    "possession_team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "play_pattern":
+    {
+        "id": 7,
+        "name": "From Goal Kick"
+    },
+    "team":
+    {
+        "id": 782,
+        "name": "Belgium"
+    },
+    "player":
+    {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+    },
+    "position":
+    {
+        "id": 22,
+        "name": "Right Center Forward"
+    },
+    "location": [105, 78],
+    "related_events": ["535af60c-a628-429d-83dd-5ee53deb0a8e"]
+}]
